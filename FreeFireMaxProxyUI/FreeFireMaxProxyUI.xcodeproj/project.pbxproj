@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		AA000004 /* cache_res.unity3d in Resources */ = {isa = PBXBuildFile; fileRef = AA000016 /* cache_res.unity3d */; };
 		AA000001 /* FreeFireMaxProxyUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000011 /* FreeFireMaxProxyUIApp.swift */; };
 		AA000002 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000012 /* ContentView.swift */; };
 		AA000003 /* FFIcon.imageset in Resources */ = {isa = PBXBuildFile; fileRef = AA000013 /* FFIcon.imageset */; };
@@ -20,7 +19,6 @@
 		AA000013 /* FFIcon.imageset */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = FFIcon.imageset; sourceTree = "<group>"; };
 		AA000014 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AA000015 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		AA000016 /* cache_res.unity3d */ = {isa = PBXFileReference; lastKnownFileType = file; path = cache_res.unity3d; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,7 +39,6 @@
 				AA000012 /* ContentView.swift */,
 				AA000014 /* Assets.xcassets */,
 				AA000015 /* Info.plist */,
-				AA000016 /* cache_res.unity3d */,
 			);
 			path = FreeFireMaxProxyUI;
 			sourceTree = "<group>";
@@ -120,7 +117,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				AA000003 /* FFIcon.imageset in Resources */,
-				AA000004 /* cache_res.unity3d in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
